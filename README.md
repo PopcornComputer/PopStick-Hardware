@@ -8,11 +8,11 @@
 **PopStick™** is available for purchase in our webstore: [https://shop.popcorncomputer.com/products/popstick][webstore]
 
 ## Learn More
-For a general overview, please visit the PopStick™ USB Computer website: [https://usbcomputer.com][usbcomputer]
-To learn how to use PopStick™ or learn in more detail about how it works, please make sure to check out the link to our documentation below.
+For a general overview, please visit the PopStick™ USB Computer website: [https://usbcomputer.com][usbcomputer]<br>
+To learn how to use **PopStick™** or learn in more detail about how it works, please make sure to check out the link to our documentation below.
 
 ## Documentation
-To view the documentation stored in this repository please visit: [https://docs.usbcomputer.com][usbcomputer-docs]
+To view the documentation for **PopStick™** please visit: [https://docs.usbcomputer.com][usbcomputer-docs]
 
 If you have done something cool with **PopStick™** or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
 
