@@ -9,12 +9,12 @@
 
 ## Learn More
 For a general overview, please visit the PopStick™ USB Computer website: [https://usbcomputer.com][usbcomputer]<br>
-To learn how to use **PopStick™** or learn in more detail about how it works, please make sure to check out the link to our documentation below.
+To learn how to use **PopStick™** or learn in more detail about how it works, please make sure to check out the link to the documentation below.
 
 ## Documentation
 To view the documentation for **PopStick™** please visit: [https://docs.usbcomputer.com][usbcomputer-docs]
 
-If you have done something cool with **PopStick™** or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
+If you have done something cool with **PopStick™** or feel that something is missing from the documentation, please feel free to open an issue in the [documentation respository][documentation-repo] or submit a Pull Request in that repository. The source files for our documentation website can be found in the /docs folder in the [documentation respository][documentation-repo].
 
 ## License & Copyright
 This work is licensed under a
@@ -36,3 +36,4 @@ Source Parts Inc. © 2022
 [usbcomputer]: https://usbcomputer.com
 [usbcomputer-docs]: https://docs.usbcomputer.com
 [webstore]: https://shop.popcorncomputer.com/products/popstick
+[documentation-repo]: https://github.com/PopcornComputer/PopStick
