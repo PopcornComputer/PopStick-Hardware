@@ -14,7 +14,7 @@ To learn how to use **PopStick™** or learn in more detail about how it works, 
 ## Documentation
 To view the documentation for **PopStick™** please visit: [https://docs.usbcomputer.com][usbcomputer-docs]
 
-If you have done something cool with **PopStick™** or feel that something is missing from the documentation, please feel free to open an issue in the [documentation respository][documentation-repo] or submit a Pull Request in that repository. The source files for our documentation website can be found in the /docs folder in the [documentation respository][documentation-repo].
+If you have done something cool with **PopStick™** or feel that something is missing from the documentation, please feel free to open an issue in the [documentation repository][documentation-repo] or submit a Pull Request in that repository. The source files for our documentation website can be found in the /docs folder in the [documentation repository][documentation-repo].
 
 ## License & Copyright
 This work is licensed under a
